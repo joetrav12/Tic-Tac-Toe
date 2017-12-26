@@ -1,11 +1,6 @@
 # Tic-Tac-Toe
 Unbeatable tic-tac-toe AI.
 
-Compile the project:
+To compile, type "cd" into terminal and then drag the project folder ("Tic-Tac-Toe-master") into terminal, then hit return. Then, type "javac TTT.java" into terminal and hit return.
 
-cd Tic-Tac-Toe-master
-
-javac TTT.java
-
-Run the project:
-java TTT
+To execute, type "java TTT" into terminal and hit return.
